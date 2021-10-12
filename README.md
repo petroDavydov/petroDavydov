@@ -1,3 +1,5 @@
+![picture](./mountain-stars-points.jpg)
+
 <h1>Full-Stack Developer</h1>
 
 ## Hi there I'm Petro Davydov 👋
