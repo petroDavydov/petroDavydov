@@ -1,4 +1,4 @@
-![pic](./mountain.jpg)
+![picIMg](./img/mountain.jpg)
 
 <h1>Full-Stack Developer</h1>
 
