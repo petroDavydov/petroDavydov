@@ -1,4 +1,4 @@
-![picture](./mountain-stars-points.jpg)
+![pic](./mountain.jpg)
 
 <h1>Full-Stack Developer</h1>
 
