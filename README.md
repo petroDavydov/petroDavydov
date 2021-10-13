@@ -9,7 +9,7 @@
 ### 📫 How to reach me:
 
 - 🏡 **Dnipro**
-- 📨 _petrodavydov@gmail.com_
+- ✔ _petrodavydov@gmail.com_
 - ✔ **https://www.linkedin.com/in/petrodavydov/**
 - ✔ **https://join.skype.com/invite/LWL9qvS0yvop**
 
