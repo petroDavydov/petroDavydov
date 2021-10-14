@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning in GoIT **Full-Stack Developer**
 - 👯 I’m looking to collaborate **with all who like learn code**
 - ⚡ Fun fact: **I like to solve different challenges**
+- 👀 React **I'm just studying**
+
+
 
 ### 📫 How to reach me:
 
