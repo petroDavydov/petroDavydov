@@ -1,4 +1,4 @@
-<h1>Full-Stack Developer</h1>
+<h1>In the process of studying Full-Stack Developer</h1>
 
 ## Hi there I'm Petro Davydov 👋
 
@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate **with all who like learn code**
 - ⚡ Fun fact: **I like to solve different challenges**
 - 👀 React **I'm just studying**
-
-
 
 ### 📫 How to reach me:
 
