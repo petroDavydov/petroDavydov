@@ -2,7 +2,7 @@
 
 ## Hi there I'm Petro Davydov 👋
 
-- 🌱 I’m currently learning in GoIT **Full-Stack Developer**
+- 🌱  **Full-Stack Developer**
 - 👯 I’m looking to collaborate **with all who like learn code**
 - ⚡ Fun fact: **I like to solve different challenges**
 - 👀 React, Node, Docker, JavaScript
