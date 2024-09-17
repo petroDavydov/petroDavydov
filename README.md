@@ -6,13 +6,13 @@
 - 👯 I’m looking to collaborate **with all who like learn code**
 - ⚡ Fun fact: **I like to solve different challenges**
 - 👀 React, Node, Docker, JavaScript
-- ♻  **Editional interest**: AWS, Digital Ocean, Linux, OSINT 
+- ♻  **Editional interest**: AWS, Digital Ocean, Linux, OSINT
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 - 🏡 **Dnipro**
 - ✔ petrodavydov@gmail.com_
-- ✔ **https://www.linkedin.com/in/petrodavydov/**
+- ✔ **<https://www.linkedin.com/in/petrodavydov/>**
 
 #### 😃 My Steck and Tools
 
