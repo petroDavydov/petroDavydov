@@ -1,17 +1,13 @@
 <h1> at the start</h1>
 
-## Hi there I'm Petro Davydov 👋
+## Hi Everybody 👋
 
-- 🌱  **Full-Stack Developer**
-- 👯 I’m looking to collaborate **with all who like learn code**
+- 🌱  **WhoamI**
 - ⚡ Fun fact: **I like to solve different challenges**
 - 👀 React, Node, Docker, JavaScript
 - ♻  **Editional interest**: AWS, Digital Ocean, Linux, OSINT
 
-### 📫 How to reach me
-
-- 🏡 **Dnipro**
-- ✔ petrodavydov@gmail.com_
+- 🏡 **Ukraine**
 - ✔ **<https://www.linkedin.com/in/petrodavydov/>**
 
 #### 😃 My Steck and Tools
