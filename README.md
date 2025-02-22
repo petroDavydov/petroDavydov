@@ -5,7 +5,7 @@
 - 🌱  **WhoamI**
 - ⚡ Fun fact: **I like to solve different challenges**
 - 👀 React, Node, Docker, JavaScript
-- ♻  **Editional interest**: AWS, Digital Ocean, Linux, OSINT
+- ♻  **Editional interest**: AWS, Digital Ocean, Docker, K8S, Linux, OSINT
 
 - 🏡 **Ukraine**
 - ✔ **<https://www.linkedin.com/in/petrodavydov/>**
