@@ -74,7 +74,7 @@
 <br> MongoDB
 </td>
 
-<td align="center" width="88">
+<!-- <td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" />
 <br> Nano
 </td>
@@ -82,7 +82,7 @@
 <td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <br> Python
-</td>
+</td> -->
 </tr>
 </table>
 
