@@ -2,12 +2,12 @@
 
 ## Hello  👋
 
-- 🌱  **WhoamI**
+<!-- - 🌱  **WhoamI**
 - ⚡ Fun fact: **I like to solve different challenges**
 - 👀 React, Node, Docker, JavaScript
 - ♻  **Editional interest**: AWS, Digital Ocean, Docker, K8S, Linux, OSINT
 
-- 🏡 **Ukraine**
+- 🏡 **Ukraine** -->
 - ✔ **<https://www.linkedin.com/in/petrodavydov/>**
 
  #### 😃 My Steck and Tools
@@ -145,14 +145,12 @@
 
 
 
-[![6h1m0d97 profile views](https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg)](https://u8views.com/github/petroDavydov)
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=1000&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)](https://git.io/typing-svg)
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=1000&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)] -->
 
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=1000&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion" alt="Typing SVG" /></a>
 </div>
+
+
+[![6h1m0d97 profile views](https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg)](https://u8views.com/github/petroDavydov)
