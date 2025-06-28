@@ -39,10 +39,6 @@
 <br> React
 </td>
 
-<!-- <td align="center" width="88">
-<img alt="Visual Studio Code" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</td> -->
-
 <td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 <br> Postman
