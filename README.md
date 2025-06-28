@@ -1,3 +1,17 @@
+<div id="header" align="centr">
+
+<img src="./assets/J4o.gif" width="200>
+
+<h1>
+Hello My name is Petro!
+<img src="./assets/flag-ua.png">
+</h1>
+
+</div>
+
+
+
+
 <h3>Currently the profile is in the process of being updated. </h3>
 
 ## Hello  👋
