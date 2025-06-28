@@ -1,6 +1,6 @@
-<div id="header" align="centr">
+<div id="header" align="center">
 
-<img src="./assets/J4o.gif" width="200"/>
+<img src="./assets/J4o.gif" width="1000"/>
 
 <h1>
 Hello My name is Petro!
