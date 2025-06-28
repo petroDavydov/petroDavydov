@@ -37,7 +37,7 @@
 </td> -->
 
 <td>
-<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" />
+<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 </td>
 
 <td>
