@@ -13,28 +13,28 @@
  #### 😃 My Steck and Tools
 <table align="center">
 <td>
-<img align="left" alt="HTML5" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 </td>
 
 <td>
-<img align="left" alt="CSS3" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 </td>
 
 <td>
-<img align="left" alt="Sass" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 </td>
 
 <td>
-<img align="left" alt="JavaScript" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 </td>
 
 <td>
-<img align="left" alt="React" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 </td>
 
-<td>
+<!-- <td>
 <img alt="Visual Studio Code" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</td>
+</td> -->
 
 <td>
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" />
