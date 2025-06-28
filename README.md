@@ -78,7 +78,7 @@
 
 </table>
 
-
+<!-- 
 #### I'm interested
 
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
@@ -133,7 +133,7 @@
 
 <img align="left" alt="GitHub" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" />
+<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" /> -->
 
 
 
