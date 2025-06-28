@@ -12,70 +12,72 @@
 
  #### 😃 My Steck and Tools
 <table align="center">
-<td>
+<tr>
+
+<td align="centr" width="88">
 <img align="left" alt="HTML5" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img align="left" alt="CSS3" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img align="left" alt="Sass" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img align="left" alt="JavaScript" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img align="left" alt="React" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 </td>
 
-<!-- <td>
+<!-- <td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </td> -->
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" />
 </td>
 
-<td>
+<td align="centr" width="88">
 <img alt="Visual Studio Code" width="44px" height="44px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </td>
-
+</tr>
 </table>
 
 <!-- 
