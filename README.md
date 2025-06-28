@@ -15,7 +15,7 @@
 <tr>
 
 <td align="center" width="88">
-<img align="left" alt="HTML5" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML5"  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <br> HTML5
 </td>
 
@@ -70,7 +70,7 @@
 </td>
 
 <td align="center" width="88">
-<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
+<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <br> MongoDB
 </td>
 
