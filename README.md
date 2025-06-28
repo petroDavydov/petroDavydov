@@ -149,4 +149,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)]
