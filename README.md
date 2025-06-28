@@ -44,7 +44,7 @@
 <br> Postman
 </td>
 
-<td align="center" width="88">
+<!-- <td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
 <br> Bash
 </td>
@@ -72,7 +72,7 @@
 <td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <br> MongoDB
-</td>
+</td> -->
 
 <!-- <td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" />
