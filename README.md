@@ -12,40 +12,71 @@
 
 #### 😃 My Steck and Tools
 <table align="center">
+<td>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</td>
 
+<td>
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</td>
 
+<td>
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</td>
 
+<td>
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</td>
 
+<td>
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+</td>
 
-
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+</td>
 
-
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" />
+</td>
 
+<td>
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+</td>
 
+</table">
 
 
 #### I'm interested
@@ -104,7 +135,7 @@
 
 <img alt="Visual Studio Code" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" />
 
-</table">
+
 
 [![6h1m0d97 profile views](https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg)](https://u8views.com/github/petroDavydov)
 
