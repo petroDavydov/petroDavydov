@@ -70,10 +70,6 @@
 </td>
 
 <td align="center" width="88">
-<img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
-</td>
-
-<td align="center" width="88">
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
 <br> MongoDB
 </td>
