@@ -1,10 +1,10 @@
 <div id="header" align="centr">
 
-<img src="./assets/J4o.gif" width="200>
+<img src="./assets/J4o.gif" width="200/>
 
 <h1>
 Hello My name is Petro!
-<img src="./assets/flag-ua.png">
+<img src="./assets/flag-ua.png" width="30px" alt="GIFflag">
 </h1>
 
 </div>
