@@ -28,7 +28,7 @@
 <img align="left" alt="Sass" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <br> Sass
 </td>
-
+</tr>
 <td align="center" width="88">
 <img align="left" alt="JavaScript" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <br> JavaScript
@@ -83,7 +83,7 @@
 <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <br> Python
 </td> -->
-</tr>
+
 </table>
 
 <!-- 
