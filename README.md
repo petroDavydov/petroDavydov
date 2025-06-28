@@ -149,10 +149,10 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=500&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=1000&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=500&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=1000&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion)]
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=500&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion" alt="Never Say" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&multiline=true&width=1000&lines=Never+say+never%2C+because+limits+like+fears+are+often+just+an+illusion" alt="Typing SVG" /></a>
 </div>
