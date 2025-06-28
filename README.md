@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="./assets/J4o.gif" width="1000" height="100"/>
+<img src="./assets/OIG4.rUcQcP1i.dvWqm4cxMdg.jpg" width="500"/>
 
 <h1>
 Hello My name is Petro!
