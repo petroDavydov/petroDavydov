@@ -149,7 +149,7 @@
 
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=10000&pause=100&multiline=true&width=900&lines=Currently+the+profile+is+in+the+process+of+being+updated." alt="update" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=10000&pause=100&multiline=true&width=1000&lines=Currently+the+profile+is+in+the+process+of+being+updated." alt="update" /></a>
 </div>
 
 
