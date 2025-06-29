@@ -131,21 +131,22 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 #### You can find me
 
-<div align="lelft">
-    <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
-        <img alt="LinkedIn" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-    </a>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="88">
+                <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
+                <img alt="LinkedIn" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+                </a>
+            </td>
+            <td align="center" width="88">
+                <a href="https://github.com/petroDavydov" target="_blank">
+                <img alt="GitHub" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
-
-<div align="left">
-    <a href="https://github.com/petroDavydov" target="_blank">
-        <img alt="GitHub" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-    </a>
-</div>
-
-
-
-
 
 
 
