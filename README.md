@@ -147,6 +147,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
         </tr>
     </table>
 </div>
+<br>
 
 ### GitHub Stats
 
