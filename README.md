@@ -29,6 +29,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
                 </td>
         </tr>
     </table>
+    <br>
 </div>
 
 #### 😑 My Steck and Tools
