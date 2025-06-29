@@ -15,7 +15,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 ### Languages
 
-<div align="left" style="background-color: rgba(254, 254, 254, 0); font-size: 18px">
+<div align="left" style="background-color: rgba(254, 254, 254, 0); font-size: 18px;">
 
     Ukrainian - Native
     English - Upper-Intermediate
