@@ -15,9 +15,19 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 ### Languages
 
-<div style= "background-color: rgba(254, 254, 254, 0); font-size: 24px; align=left">
-    Ukrainian - Native <br>
-    English - Upper-Intermediate
+<div style="background-color: rgba(254, 254, 254, 0);">
+    <table align="center" style="font-size: 18px;">
+        <tr>
+            <td>
+            Ukrainian - Native<br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            English - Pre-Intermediate
+            </td>
+        <tr>
+    </table>
 </div>
 
 #### 😑 My Steck and Tools
