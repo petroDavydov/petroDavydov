@@ -9,7 +9,7 @@
 
 ## About ME
 
-<p style="font-size: 24px; text-align: center; font-weight: bold">
+<p style="font-size: 24px; text-align: left; font-weight: bold">
 Passionate Penetration Tester | Cyber Security Enthusiast
 </p>
 
@@ -84,21 +84,83 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
 </div>
 
-<!-- 
+### In Proces or Interested In
+
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="88">
+                <img alt="Bash" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+                <br> Bash
+            </td>
             <td align="center" width="88">
                 <img alt="Postman" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
-            <br> Postman
+                <br> Postman
             </td>
+            <td align="center" width="88">
+                <img alt="K8s" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" />
+                <br> K8s
+            </td>
+            <td align="center" width="88">
+                <img alt="Docker" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+                <br> Docker
+            </td>
+            <td align="center" width="88">
+                <img alt="AWS" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+                <br> aws
+            </td>
+            <td align="center" width="88">
+                <img alt="Digital Ocean" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />
+                <br> Digital Ocean
+            </td>
+            <td align="center" width="88">
+                <img alt="Azur" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+                <br> Azure
+            </td>
+            <td align="center" width="88">
+                <img alt="R" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+                <br>R
+            </td>
+            <td align="center" width="88">
+                <img alt="RStudio" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" />
+                <br> RStudio
+            </td>
+        </tr>
+    </table>
+</div>
+<!-- 
+            <td align="center" width="88">
+            </td>
+            <td align="center" width="88">
+            </td>
+            <td align="center" width="88">
+            </td>
+            <td align="center" width="88">
+            </td>
+            <td align="center" width="88">
+            </td>
+            <td align="center" width="88">
+            </td> -->
 
-<td align="center" width="88">
-<img alt="Bash" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
-<br> Bash
-</td>
 
-<td align="center" width="88">
-<img alt="Docker" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<br> Docker
-</td>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+            
+
+
+
+
 
 
 <td align="center" width="88">
@@ -137,29 +199,26 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 <img alt="Ubuntu" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
 
-<img alt="K8s" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" />
 
-<img alt="R" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 
-<img alt="RStudio" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" />
+
 
 <img alt="Unix" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" />
 
-<img alt="AWS" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
 
 <img alt="archlinux" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" />
 
 <img alt="awk" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" />
 
-<img alt="Azur" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 
 <img alt="C" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" />
 
 <img alt="Debian" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" />
 
-<img alt="Digital Ocean" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />
 
-<img alt="fAPI" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
+
+<img alt="fast API" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
 
 <img alt="lua" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
 
@@ -173,7 +232,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 <img alt="redis" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 
-<img alt="redhat" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" />
+
 
 <img alt="socketio" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" />
 
