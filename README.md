@@ -22,13 +22,12 @@ Passionate Penetration Tester | Cyber Security Enthusiast
                     Ukrainian - Native
                 </td>
         </tr>
-        <br>
         <tr>
                 <td>
                     English - Pre-Intermediate
                 </td>
-        </tr><br>
-    </table><br>
+        </tr>
+    </table>
 </div>
 
 #### 😑 My Steck and Tools
