@@ -84,7 +84,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
 </div>
 
-### In Proces or Interested In
+### In Progress or Interested
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -148,40 +148,29 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
 </div>
 
+### GitHub Stats
 
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/petroDavydov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=petroDavydov&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=false" alt="Petro Davydov github stats" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/petroDavydov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroDavydov&layout=compact&theme=blueberry&hide_border=false" alt="Most used Langages" /></a>
+        </td>
+    </tr>
+        <td colspan=2 align="center">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=petroDavydov&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="Petro Davydov GitHub Streak" /></a>
+        </td>
+    </tr>
+</table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&duration=10000&pause=100&multiline=true&width=1000&lines=Currently+the+profile+is+in+the+process+of+being+updated." alt="update" /></a>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%86+Remember+;Every+day+is+a+new+opportunity!" alt="Remember" /></a>
 </div>
 
+<br>
 
-[![6h1m0d97 profile views](https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg)](https://u8views.com/github/petroDavydov)
-
-
-
-
-
+<div align="center">
+<a href="https://u8views.com/github/petroDavydov"><img src="https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg" alt="views count"></a>
+</div>
