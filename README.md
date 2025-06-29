@@ -18,14 +18,10 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 <div style="background-color: rgba(254, 254, 254, 0);">
     <table align="left" style="font-size: 18px;">
         <tr>
-                <td>
-                    Ukrainian - Native
-                </td>
+            Ukrainian - Native
         </tr>
         <tr>
-                <td>
-                    English - Pre-Intermediate
-                </td>
+            English - Pre-Intermediate
         </tr>
     </table>
 </div>
