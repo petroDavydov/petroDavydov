@@ -146,11 +146,13 @@ Passionate Penetration Tester | Cyber Security Enthusiast
             </td>
         </tr>
     </table>
+    <br>
 </div>
 <br>
 
 ### GitHub Stats
 
+<br>
 <table align="center">
     <tr>
         <td>
