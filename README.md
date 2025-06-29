@@ -15,7 +15,8 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 ### Languages
 
-<div style="background-color: rgba(254, 254, 254, 0);">
+<!-- <div style="background-color: rgba(254, 254, 254, 0);"> -->
+<div style="display: flex; align-items: flex-start; align: center">
     <table align="center" style="font-size: 18px;">
         <tr>
             <!-- <td> -->
