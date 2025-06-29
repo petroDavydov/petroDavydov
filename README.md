@@ -151,12 +151,15 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 <br>
 
-<div align=center>
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%86+Remember+;Every+day+is+a+new+opportunity!" alt="Remember" /></a>
 </div>
 
-<br>
-
 <div align="center">
 <a href="https://u8views.com/github/petroDavydov"><img src="https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg" alt="views count"></a>
-</div
+</div>
+
+<div align=center>
+<br>
+<a href="https://www.codewars.com/users/6h1m0d97"><img src="https://www.codewars.com/users/6h1m0d97/badges/small" alt="Codewars" >
+</div>
