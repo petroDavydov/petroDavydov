@@ -15,7 +15,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 ### Languages
 
-<div align="center" background-color: rgba(254, 254, 254, 0)>
+<div align="left" background-color: rgba(254, 254, 254, 0)>
 
     Ukrainian - Native
     English - Upper-Intermediate
@@ -106,147 +106,71 @@ Passionate Penetration Tester | Cyber Security Enthusiast
                 <br> Docker
             </td>
             <td align="center" width="88">
-                <img alt="AWS" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-                <br> aws
+                <img alt="pfSense" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" />
+                <br> pfSense
             </td>
             <td align="center" width="88">
-                <img alt="Digital Ocean" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />
-                <br> Digital Ocean
+                <img alt="MySQL" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+                <br> MySQL
             </td>
             <td align="center" width="88">
-                <img alt="Azur" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
-                <br> Azure
+                <img alt="socketio" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" />
+                <br> socketio
             </td>
             <td align="center" width="88">
-                <img alt="R" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
-                <br>R
+                <img alt="awk" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" />
+                <br> awk
             </td>
             <td align="center" width="88">
-                <img alt="RStudio" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" />
-                <br> RStudio
+                <img alt="powershell" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
+                <br> powershell
             </td>
         </tr>
     </table>
 </div>
-<!-- 
-            <td align="center" width="88">
-            </td>
-            <td align="center" width="88">
-            </td>
-            <td align="center" width="88">
-            </td>
-            <td align="center" width="88">
-            </td>
-            <td align="center" width="88">
-            </td>
-            <td align="center" width="88">
-            </td> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-            
-
-
-
-
-
-
-<td align="center" width="88">
-<img alt="pfSense" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" />
-<br> pfSense
-</td>
-
-<td align="center" width="88">
-<img alt="SSH" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" />
-<br> SSH
-</td>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### I'm interested
-
-<img alt="Ubuntu" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
-
-
-
-
-
-<img alt="Unix" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" />
-
-
-
-<img alt="archlinux" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" />
-
-<img alt="awk" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" />
-
-
-<img alt="C" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" />
-
-<img alt="Debian" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" />
-
-
-
-<img alt="fast API" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
-
-<img alt="lua" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
-
-<img alt="MySQL" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-
-<img alt="msdos" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" />
-
-<img alt="powershell" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
-
-<img alt="postgresql" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-
-<img alt="redis" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
-
-
-
-<img alt="socketio" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" />
-
-<img alt="splunk" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" />
-
 
 #### You can find me
 
+<div align="lelft">
+    <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
+        <img alt="LinkedIn" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+    </a>
+</div>
 
-<img alt="LinkedIn" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+<div align="left">
+    <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
+        <img alt="GitHub" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+    </a>
+</div>
 
-<img alt="GitHub" width="44" height="44" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<div align="left">
+    <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
+        <img alt="slack" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
+    </a>
+</div>
 
-<img alt="slack" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -264,4 +188,3 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 
 
-**<https://www.linkedin.com/in/petrodavydov/>** -->
