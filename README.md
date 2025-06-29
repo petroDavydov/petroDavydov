@@ -19,9 +19,10 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     <table align="center" style="font-size: 18px;">
         <tr>
             <!-- <td> -->
-            Ukrainian - Native<br>
+            Ukrainian - Native
             <!-- </td> -->
         </tr>
+        <br>
         <tr>
             <!-- <td> -->
             English - Pre-Intermediate
