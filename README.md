@@ -16,7 +16,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 ### Languages
 
 <div style="background-color: rgba(254, 254, 254, 0);">
-    <table align="center" style="font-size: 18px;">
+    <table align="left" style="font-size: 18px;">
         <tr>
             <td>
             Ukrainian - Native<br>
