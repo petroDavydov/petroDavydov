@@ -17,19 +17,19 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 <!-- <div style="background-color: rgba(254, 254, 254, 0);"> -->
 <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center" style="font-size: 18px;">
-        <tr>
-            <!-- <td> -->
-            Ukrainian - Native
-            <!-- </td> -->
-        </tr>
-        <br>
-        <tr>
-            <!-- <td> -->
-            English - Pre-Intermediate
-            <!-- </td> -->
-        <tr>
-    </table>
+<table align="center" style="font-size: 18px;">
+    <tr>
+        <!-- <td> -->
+        Ukrainian - Native
+        <!-- </td> -->
+    </tr>
+    <br>
+    <tr>
+        <!-- <td> -->
+        English - Pre-Intermediate
+        <!-- </td> -->
+    <tr>
+</table>
 </div>
 
 #### 😑 My Steck and Tools
