@@ -152,7 +152,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 ### GitHub Stats
 
-<br>
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <tr>
         <td>
@@ -167,6 +167,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
         </td>
     </tr>
 </table>
+</div>
 
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%86+Remember+;Every+day+is+a+new+opportunity!" alt="Remember" /></a>
