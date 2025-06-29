@@ -22,23 +22,6 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### 😑 My Steck and Tools
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -84,7 +67,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
 </div>
 
-### In Progress or Interested
+#### In Progress or Interested
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -148,25 +131,24 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
     <br>
 </div>
-<br>
 
-### GitHub Stats
+#### GitHub Stats
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-    <tr>
-        <td>
-            <a href="https://github.com/petroDavydov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=petroDavydov&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=false" alt="Petro Davydov github stats" /></a>
-        </td>
-        <td>
-            <a href="https://github.com/petroDavydov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroDavydov&layout=compact&theme=blueberry&hide_border=false" alt="Most used Langages" /></a>
-        </td>
-    </tr>
-        <td colspan=2 align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=petroDavydov&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="Petro Davydov GitHub Streak" /></a>
-        </td>
-    </tr>
-</table>
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://github.com/petroDavydov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=petroDavydov&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=false" alt="Petro Davydov github stats" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/petroDavydov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroDavydov&layout=compact&theme=blueberry&hide_border=false" alt="Most used Langages" /></a>
+            </td>
+        </tr>
+            <td colspan=2 align="center">
+            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=petroDavydov&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="Petro Davydov GitHub Streak" /></a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align=center>
