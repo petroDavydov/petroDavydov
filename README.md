@@ -132,7 +132,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 #### You can find me
 
 <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
+    <table align="lett">
         <tr>
             <td align="left" width="88">
                 <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
