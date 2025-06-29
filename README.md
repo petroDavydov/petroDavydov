@@ -25,12 +25,11 @@ Passionate Penetration Tester | Cyber Security Enthusiast
         <br>
         <tr>
                 <td>
-                    English - Pre-Intermediate
+                    English - Pre-Intermediate<br>
                 </td>
         </tr>
     </table>
 </div>
-<br>
 
 #### 😑 My Steck and Tools
 
