@@ -149,6 +149,8 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
 </div>
 
+<br>
+
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%86+Remember+;Every+day+is+a+new+opportunity!" alt="Remember" /></a>
 </div>
@@ -157,4 +159,4 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 
 <div align="center">
 <a href="https://u8views.com/github/petroDavydov"><img src="https://u8views.com/api/v1/github/profiles/78567740/views/day-week-month-total-count.svg" alt="views count"></a>
-</div>
+</div
