@@ -138,16 +138,12 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 </div>
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
+    <a href="https://github.com/petroDavydov" target="_blank">
         <img alt="GitHub" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
     </a>
 </div>
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/petrodavydov/" target="_blank">
-        <img alt="slack" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
-    </a>
-</div>
+
 
 
 
