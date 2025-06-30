@@ -26,7 +26,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
     </table>
 </div>
 
-#### 😑 My Steck and Tools
+#### 😑 My Stack and Tools
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
