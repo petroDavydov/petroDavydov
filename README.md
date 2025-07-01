@@ -112,10 +112,6 @@ Passionate Penetration Tester | Cyber Security Enthusiast
                 <img alt="powershell" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
                 <br> powershell
             </td>
-            <td align="center">
-            <img src="https://academy.hackthebox.com/achievement/badge/3a8ea5e0-692c-11ee-aac4-bea50ffe6cb4" alt="HTB Academy Bash Badge" width="80" />
-            <br><sub>Bash</sub>
-            </td>
         </tr>
     </table>
 </div>
