@@ -60,7 +60,7 @@ Passionate Penetration Tester | Cyber Security Enthusiast
                 <br> Linux
             </td>
             <td align="center" width="88">
-                <img alt="Visual Studio Code" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" />
+                <img alt="Nano" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain-wordmark.svg" />
                 <br> Nano
             </td>
             <td align="center" width="88">
@@ -112,6 +112,10 @@ Passionate Penetration Tester | Cyber Security Enthusiast
                 <img alt="powershell" width="44" height="44" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" />
                 <br> powershell
             </td>
+            <td align="center">
+            <img src="https://academy.hackthebox.com/achievement/badge/3a8ea5e0-692c-11ee-aac4-bea50ffe6cb4" alt="HTB Academy Bash Badge" width="80" />
+            <br><sub>Bash</sub>
+            </td>
         </tr>
     </table>
 </div>
@@ -149,7 +153,11 @@ Passionate Penetration Tester | Cyber Security Enthusiast
             </td>
         </tr>
             <td colspan=2 align="center">
-            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=petroDavydov&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="Petro Davydov GitHub Streak" /></a>
+            <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=petroDavydov&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="Petro Davydov GitHub Streak" />
+            </a> -->
+            <a href="https://github.com/petroDavydov">
+            <img src="https://img.shields.io/badge/GitHub_Streak-🔥_Active-lightgreen?style=for-the-badge&logo=github" alt="GitHub Streak" />
+            </a>
             </td>
         </tr>
     </table>
@@ -168,4 +176,10 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 <div align=center>
 <br>
 <a href="https://www.codewars.com/users/6h1m0d97"><img src="https://www.codewars.com/users/6h1m0d97/badges/small" alt="Codewars" >
+</div>
+
+<div align=center>
+<br>
+<a href="https://app.hackthebox.com/profile/73C55DB4C6" target="_blank"><img src="https://www.hackthebox.com/badge/image/73C55DB4C6" alt="HackTheBox" >
+</a>
 </div>
