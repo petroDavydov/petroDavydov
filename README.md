@@ -178,5 +178,5 @@ Passionate Penetration Tester | Cyber Security Enthusiast
 <br>
 <a href="https://app.hackthebox.com/profile/73C55DB4C6" target="_blank"><img src="https://www.hackthebox.com/badge/image/73C55DB4C6" alt="HackTheBox" >
 </a><br>
-<strong><span style="color:lightgreen; font-size:18px; font-family: Fira Code, monospace">shimoda</span></strong>
+<strong><span style="color:lightgreen; font-size:18px; font-family: Fira Code, monospace">6h1m0d97</span></strong>
 </div>
